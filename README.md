@@ -1,10 +1,86 @@
 # 💫 About Me:
-Soy Angel Angeles Molina, un apasionado desarrollador en constante búsqueda de nuevos desafíos y oportunidades para seguir creciendo en el emocionante mundo de la tecnología. Actualmente, estoy enfocado en convertirme en un experto en el desarrollo móvil con Kotlin y explorar el vasto potencial que ofrece esta tecnología.<br><br>📱 Desarrollo Móvil con Kotlin:<br>Mi entusiasmo por el desarrollo móvil con Kotlin me ha llevado a sumergirme en el mundo de las aplicaciones móviles Android, donde busco crear soluciones creativas y funcionales que mejoren la experiencia del usuario. Me encanta estar al día con las últimas tendencias y mejores prácticas para asegurarme de que mis proyectos sean innovadores y robustos.<br><br>💻 Experiencia en Desarrollo Web:<br>Además de mi enfoque en el desarrollo móvil, poseo una sólida experiencia en desarrollo web. He trabajado en proyectos emocionantes y desafiantes durante mi tiempo como desarrollador web en el Puerto de Liverpool, donde contribuí al diseño y desarrollo de soluciones que optimizaron la experiencia de compra en línea para los clientes.<br><br>🚀 Compromiso con el Aprendizaje Continuo:<br>Mi carrera como desarrollador se caracteriza por una pasión inquebrantable por el aprendizaje continuo. Me encanta mantenerme al tanto de las últimas tecnologías y tendencias emergentes para garantizar que mis habilidades estén siempre a la vanguardia. Siempre estoy dispuesto a asumir nuevos desafíos y aprender de cada experiencia para seguir creciendo como profesional.<br><br>💼 ¿Buscas un talento versátil?<br>Si estás buscando a alguien que pueda aportar su experiencia en desarrollo web, mientras se sumerge de lleno en el desarrollo móvil con Kotlin, entonces has llegado al lugar correcto. Estoy listo para contribuir con mi creatividad, conocimientos técnicos y dedicación a cualquier proyecto apasionante que me permita seguir evolucionando y superando límites.<br><br>¡Estoy emocionado por unirme a equipos innovadores y colaborativos para crear soluciones tecnológicas que marquen la diferencia en el mundo actual!<br><br>¡No dudes en contactarme para discutir cómo podemos trabajar juntos en emocionantes proyectos de desarrollo!<br><br>¡Gracias por visitar mi perfil de GitHub! 🌟<br><br><br><br><br><br>
+# Hi there 👋
 
+I'm **Angel Angeles Molina**, a **Software Developer** with nearly **3 years of experience focused on Android development**, building modern, scalable, and user-centered mobile applications using **Kotlin** and the Android ecosystem.
+
+## 📱 Android Development
+
+Android development is currently my main area of expertise. I enjoy creating high-quality mobile applications while following modern development practices and architectures. Throughout my journey, I've worked with technologies and concepts such as:
+
+- **Kotlin**
+- **Java**
+- **Jetpack Compose**
+- **Android XML Views**
+- **MVVM / MVI Architectures**
+- **Coroutines & Flow**
+- **Dependency Injection (Koin, Hilt)**
+- **REST APIs**
+- **Clean Architecture**
+- **Modularization**
+- **Testing and maintainable code practices**
+
+Having experience with both **Jetpack Compose** and **traditional XML-based UI development** allows me to contribute effectively to existing applications while also building modern Android experiences from the ground up.
+
+I'm constantly improving my skills and staying up to date with the latest Android tools, frameworks, and best practices.
+
+## 💻 Web Development Experience
+
+Alongside my Android expertise, I have professional experience in **Web Development**. During my time at **Liverpool**, I contributed to the design and development of solutions that enhanced the online shopping experience for thousands of users.
+
+Working across both mobile and web environments has given me a broader perspective on software development, system design, and user experience.
+
+## 🚀 Continuous Learning
+
+Technology evolves quickly, and I enjoy evolving with it. I'm passionate about learning new tools, exploring emerging technologies, and continuously improving as a developer.
+
+Recently, I've also been expanding my knowledge in areas such as:
+
+- **Kotlin Multiplatform (KMP)**
+- **Software Architecture**
+- **Algorithms & Data Structures**
+- **AI-Powered Developer Tools**
+- **Backend Development**
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on exciting projects, sharing knowledge, and connecting with other developers.
+
+Feel free to explore my repositories or reach out if you'd like to discuss technology, Android development, software architecture, or potential opportunities.
+
+Thanks for visiting my GitHub profile! 🌟
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-angel-angeles-molina-074861245/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/whoisjaam) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-angel-angeles-molina-074861245/)
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 🚀 Technologies
 
+### 📱 Android
+
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+### 💻 Web
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+### ⚙️ Backend
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ Cloud & Tools
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
